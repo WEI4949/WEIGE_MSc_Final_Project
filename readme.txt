@@ -23,7 +23,7 @@ It includes exploratory analysis, model training results, evaluation metrics, an
 - Contains the model outputs for the Catchment 31.
 - Includes incremental feature experiments, ablation tests, and corresponding performance figures.
 
-### 5. `result_output/`
+### 5. `metrics and attributes_output/`
 - Contains the relationship between performance metrics(KGE, NSE, CCC) and catchmnet attributes with p value.
 
 ### 6. `thesis_pictures/`
@@ -81,4 +81,5 @@ It includes exploratory analysis, model training results, evaluation metrics, an
 
 ##  Notes
 - The single-catchment analysis (ID31) serves as a methodological starting point, while the multi-catchment experiments form the main focus of the thesis.  
+
 - All results (metrics, plots, and IG outputs) are stored for reproducibility and reporting.
